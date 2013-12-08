@@ -15,15 +15,15 @@ function checkDate(dateNeeded) {
     var currentDay = getDay();
     var responseStr = " ";
     if (currentMonth == 12) {
-        if (currentDay >= 1) {
+        if (currentDay > dateNeeded) {
             responseStr = stringInfo(dateNeeded);
         }
         else {
-            responseStr = "It's December, but you'll have to wait a little longer for this date.";
+            responseStr = "You can't skip ahead to this date. Sorry!<br /> To go back, click the 3 dots in the bottom<br /> right corner and then press back.";
         }
     }
     else {
-        responseStr = "Hey, it's not even December yet!";
+        responseStr = "Hey, it's not even December yet! You'll have to wait a bit longer. <br />To go back, click the 3 dots in the bottom<br /> right corner and then press back.";
     }
 
     document.getElementById("response").innerHTML = responseStr;
