@@ -1,10 +1,10 @@
-﻿<xapCache source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Bin\Debug\AdventCal_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="12/7/2013 11:40:34 PM">
+﻿<xapCache source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Bin\Debug\AdventCal_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="12/8/2013 12:24:19 AM">
   <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\obj\Debug\AdventCal.dll" archivePath="AdventCal.dll" lastWriteTime="12/7/2013 12:24:57 AM" />
   <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="12/6/2013 11:24:52 PM" />
   <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Assets\AppBar\appbar.back.rest.png" archivePath="Assets\AppBar\appbar.back.rest.png" lastWriteTime="12/6/2013 11:24:52 PM" />
   <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Assets\AppBar\appbar.next.rest.png" archivePath="Assets\AppBar\appbar.next.rest.png" lastWriteTime="12/6/2013 11:24:52 PM" />
-  <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="12/6/2013 11:24:52 PM" />
-  <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="12/6/2013 11:24:52 PM" />
+  <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="12/8/2013 12:21:32 AM" />
+  <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="12/8/2013 12:23:56 AM" />
   <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="12/6/2013 11:24:52 PM" />
   <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="12/6/2013 11:24:52 PM" />
   <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Html\css\phone.css" archivePath="Html\css\phone.css" lastWriteTime="12/6/2013 11:54:29 PM" />
@@ -34,9 +34,9 @@
   <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\pages\subpages\7.html" archivePath="pages\subpages\7.html" lastWriteTime="12/7/2013 12:47:15 AM" />
   <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\pages\subpages\8.html" archivePath="pages\subpages\8.html" lastWriteTime="12/7/2013 12:47:04 AM" />
   <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\pages\subpages\9.html" archivePath="pages\subpages\9.html" lastWriteTime="12/7/2013 12:46:52 AM" />
-  <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\pages\subpages\subpages.js" archivePath="pages\subpages\subpages.js" lastWriteTime="12/7/2013 11:40:30 PM" />
+  <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\pages\subpages\subpages.js" archivePath="pages\subpages\subpages.js" lastWriteTime="12/8/2013 12:11:20 AM" />
   <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12/6/2013 11:25:11 PM" />
-  <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="12/6/2013 11:24:52 PM" />
-  <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="12/6/2013 11:24:52 PM" />
+  <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="12/8/2013 12:24:11 AM" />
+  <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="12/8/2013 12:23:02 AM" />
   <file source="C:\Users\dallasbrittany\documents\visual studio 2013\Projects\AdventCal\AdventCal\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12/7/2013 12:03:10 AM" />
 </xapCache>
